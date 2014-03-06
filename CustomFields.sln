@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFields", "CustomFields\CustomFields.csproj", "{0A707090-4513-42C9-8AF5-CA43A00998DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Packages", "Packages", "{0C4E50A4-1E9F-4AB3-80EC-21E8BA805FD9}"
+	ProjectSection(SolutionItems) = preProject
+		package\CustomFields.package = package\CustomFields.package
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A707090-4513-42C9-8AF5-CA43A00998DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A707090-4513-42C9-8AF5-CA43A00998DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A707090-4513-42C9-8AF5-CA43A00998DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A707090-4513-42C9-8AF5-CA43A00998DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
